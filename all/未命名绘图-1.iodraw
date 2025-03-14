@@ -223,48 +223,24 @@
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-1" value="Input&lt;div&gt;（256×256&lt;span style=&quot;background-color: initial;&quot;&gt;×4)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RGB+Mask&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F0F0F0;" vertex="1" parent="1">
           <mxGeometry x="50" y="270" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#3399FF;fillColor=#00FFFF;" edge="1" parent="1">
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#3399FF;fillColor=#00FFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="340" as="sourcePoint" />
-            <mxPoint x="830" y="430" as="targetPoint" />
+            <mxPoint x="830" y="360" as="targetPoint" />
             <Array as="points">
               <mxPoint x="240" y="340" />
-              <mxPoint x="600" y="330" />
+              <mxPoint x="600" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
           <mxGeometry x="160" y="500" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-7" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FFCC99;" vertex="1" parent="1">
-          <mxGeometry x="320" y="180" width="30" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-20" value="Dilated Gate Conv" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FFCC99;" vertex="1" parent="1">
           <mxGeometry x="340" y="590" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv Block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
-          <mxGeometry x="280" y="380" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-24" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="320" y="380" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv Block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
-          <mxGeometry x="360" y="380" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-23" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="400" y="380" width="30" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-22" value="Contextual Attention" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="500" y="560" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-34" value="特征分支 下采样 （256→128→64）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="150" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-35" value="门控分支 下采样 （256→128→64）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="500" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-36" value="Encoder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="130" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-38" value="&lt;font face=&quot;Times New Roman&quot;&gt;Conv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-rl;fillColor=#f0e6ff;" vertex="1" parent="1">
           <mxGeometry x="860" y="280" width="30" height="120" as="geometry" />
