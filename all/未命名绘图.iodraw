@@ -124,7 +124,7 @@
           <mxGeometry x="375" y="490" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-49" value="&lt;font&gt;Conv2D-Output&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#FF6666;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="700" y="490" width="130" height="30" as="geometry" />
+          <mxGeometry x="710" y="490" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-50" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sigmoid&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#00FFFF;" vertex="1" parent="1">
           <mxGeometry x="375" y="560" width="130" height="30" as="geometry" />
