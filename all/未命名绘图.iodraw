@@ -19,7 +19,7 @@
         <mxCell id="LbJ-9kwTxkioFvfQPVXJ-10" value="Dilate Gated" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fontFamily=Times New Roman;fontStyle=1;fillColor=#80FF00;" vertex="1" parent="1">
           <mxGeometry x="380" y="300" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-11" value="&lt;font&gt;Gated Conv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;textDirection=vertical-lr;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#FFCC99;labelBorderColor=none;textShadow=0;fillColor=#FFCC99;" vertex="1" parent="1">
+        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-11" value="&lt;font&gt;Gated Conv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=east;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#FFCC99;labelBorderColor=none;textShadow=0;fillColor=#FFCC99;" vertex="1" parent="1">
           <mxGeometry x="135" y="575" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
