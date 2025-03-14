@@ -60,14 +60,8 @@
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-2" value="Encoder&amp;nbsp;&lt;div&gt;Conv2D-128→64→32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="230" y="230" width="240" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sv0c-Y7wQnEQ1qlnyc_Q-1" target="sv0c-Y7wQnEQ1qlnyc_Q-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-1" value="&amp;nbsp;Input&lt;div&gt;(256×256×3,RGB)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sv0c-Y7wQnEQ1qlnyc_Q-12" target="sv0c-Y7wQnEQ1qlnyc_Q-14">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-12" value="&lt;font&gt;Conv2D&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Transpose&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#80FF00;textDirection=vertical-lr;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="640" y="275" width="30" height="130" as="geometry" />
@@ -78,29 +72,23 @@
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-15" value="&lt;font&gt;Conv2D-Output&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#66B2FF;textDirection=vertical-lr;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="840" y="275" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sv0c-Y7wQnEQ1qlnyc_Q-8" target="sv0c-Y7wQnEQ1qlnyc_Q-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Conv2D&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#FFCC99;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="420" y="275" width="30" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sv0c-Y7wQnEQ1qlnyc_Q-4" target="sv0c-Y7wQnEQ1qlnyc_Q-9">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Conv2D&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#FFCC99;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="270" y="275" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sv0c-Y7wQnEQ1qlnyc_Q-9" target="sv0c-Y7wQnEQ1qlnyc_Q-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Conv2D&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#FFCC99;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="345" y="275" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sv0c-Y7wQnEQ1qlnyc_Q-11" target="sv0c-Y7wQnEQ1qlnyc_Q-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-11" value="&lt;font&gt;Conv2D&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Transpose&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#80FF00;textDirection=vertical-lr;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="570" y="275" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sv0c-Y7wQnEQ1qlnyc_Q-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="100" as="sourcePoint" />
+            <mxPoint x="610" y="50" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
