@@ -409,7 +409,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GNIWKoAs3dnvJ-KT1W1D" name="第 5 页">
-    <mxGraphModel dx="1166" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1166" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -480,7 +480,7 @@
           <mxGeometry x="770" y="520" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h9EyIOH7XS0jQXCsdvUp-26" value="卷积层，对输入图像进行局部特征提取和真伪分类" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="175" y="630" width="290" height="30" as="geometry" />
+          <mxGeometry x="180" y="630" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
