@@ -63,9 +63,6 @@
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-2" value="Encoder&amp;nbsp;&lt;div&gt;Conv2D-128→64→32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="330" y="10" width="240" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Conv2D&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#FFCC99;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="340" y="275" width="30" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Conv2D&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#FFCC99;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="270" y="275" width="30" height="130" as="geometry" />
         </mxCell>
@@ -86,6 +83,9 @@
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-15" value="&lt;font&gt;Conv2D-Output&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#66B2FF;textDirection=vertical-lr;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="840" y="270" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Conv2D&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#FFCC99;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="340" y="275" width="30" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
