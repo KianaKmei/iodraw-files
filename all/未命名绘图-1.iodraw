@@ -470,6 +470,9 @@
         <mxCell id="h9EyIOH7XS0jQXCsdvUp-20" value="Spectral-Normalized" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#FF6666;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="200" y="288" width="30" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="h9EyIOH7XS0jQXCsdvUp-22" value="Spectral-Normalized" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#FF6666;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="30" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
