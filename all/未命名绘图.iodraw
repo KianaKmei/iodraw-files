@@ -10,7 +10,7 @@
         <mxCell id="LbJ-9kwTxkioFvfQPVXJ-5" value="&lt;font face=&quot;宋体&quot;&gt;Gated Conv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="230" y="300" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-6" value="Dilate Gated" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="280" y="300" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LbJ-9kwTxkioFvfQPVXJ-7" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
