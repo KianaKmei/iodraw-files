@@ -405,6 +405,9 @@
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-101" value="上下文注意力：从已知区域复制纹理到缺失区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="780" width="280" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="iSzei-ourPTLlAyc4Xvl-1" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="490.39" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
