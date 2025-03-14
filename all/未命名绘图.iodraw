@@ -57,7 +57,7 @@
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-1" value="&amp;nbsp;Input&lt;div&gt;(256×256×3,RGB)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-2" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-2" value="Encoder&amp;nbsp;&lt;div&gt;Conv2D-128→64→32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="235" y="220" width="240" height="220" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Conv2D&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#FFCC99;textDirection=vertical-lr;" vertex="1" parent="1">
