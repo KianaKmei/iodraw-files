@@ -422,12 +422,6 @@
         <mxCell id="h9EyIOH7XS0jQXCsdvUp-3" value="H/2" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;fillColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="350" y="270" width="80" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="h9EyIOH7XS0jQXCsdvUp-4" value="H/4" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;fillColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="465" y="300" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="h9EyIOH7XS0jQXCsdvUp-5" value="H/8" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;fillColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="590" y="308" width="100" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="h9EyIOH7XS0jQXCsdvUp-8" value="64" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="210" width="40" height="30" as="geometry" />
         </mxCell>
@@ -457,6 +451,12 @@
         </mxCell>
         <mxCell id="h9EyIOH7XS0jQXCsdvUp-6" value="H/16" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;fillColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="715" y="318" width="100" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="h9EyIOH7XS0jQXCsdvUp-5" value="H/8" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="590" y="308" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h9EyIOH7XS0jQXCsdvUp-4" value="H/4" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="465" y="300" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
