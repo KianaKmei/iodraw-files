@@ -402,6 +402,9 @@
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-100" value="空洞门控卷积：扩大卷积模块的感受野，捕捉上下文信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="605" y="730" width="320" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-101" value="上下文注意力：从已知区域复制纹理到缺失区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="778" width="280" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
