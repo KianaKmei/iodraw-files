@@ -129,8 +129,8 @@
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-50" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sigmoid&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#00FFFF;" vertex="1" parent="1">
           <mxGeometry x="420" y="590" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-52" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="225" y="498" width="50" height="30" as="geometry" />
+        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-52" value="下采样卷积层，3×3卷积核，步长2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="498" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
