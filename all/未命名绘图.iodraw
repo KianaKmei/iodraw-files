@@ -115,7 +115,7 @@
           <mxGeometry x="870" y="270" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-46" value="&lt;font face=&quot;Times New Roman&quot;&gt;Conv2D&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#FFCC99;" vertex="1" parent="1">
-          <mxGeometry x="40" y="490" width="130" height="30" as="geometry" />
+          <mxGeometry x="35" y="490" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-47" value="&lt;font face=&quot;Times New Roman&quot;&gt;ReLU&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="40" y="560" width="130" height="30" as="geometry" />
@@ -125,9 +125,6 @@
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-49" value="&lt;font&gt;Conv2D-Output&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#FF6666;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="720" y="490" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tiDYUUkvnWi7MSucHscs-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sv0c-Y7wQnEQ1qlnyc_Q-50" target="sv0c-Y7wQnEQ1qlnyc_Q-48">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-50" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sigmoid&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#00FFFF;" vertex="1" parent="1">
           <mxGeometry x="380" y="560" width="130" height="30" as="geometry" />
@@ -158,9 +155,6 @@
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-61" value="对软掩膜归一化处理，生成有云/无云（1/0）二值掩码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="860" y="560" width="310" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tiDYUUkvnWi7MSucHscs-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.585;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sv0c-Y7wQnEQ1qlnyc_Q-48" target="sv0c-Y7wQnEQ1qlnyc_Q-50">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
