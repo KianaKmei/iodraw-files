@@ -7,8 +7,11 @@
         <mxCell id="LbJ-9kwTxkioFvfQPVXJ-1" value="&lt;font face=&quot;宋体&quot;&gt;输入图像&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;（256×256）&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="220" y="300" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
