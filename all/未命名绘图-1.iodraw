@@ -357,6 +357,16 @@
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-80" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="600" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-82" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#3399FF;fillColor=#00FFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="641" as="sourcePoint" />
+            <mxPoint x="130" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="641" />
+              <mxPoint x="800" y="641" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
