@@ -28,8 +28,8 @@
         <mxCell id="LbJ-9kwTxkioFvfQPVXJ-13" value="&lt;font face=&quot;宋体&quot;&gt;图像mask掩码&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;（256×256）&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="50" y="374" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="550" y="400" width="60" height="120" as="geometry" />
+        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="460" y="300" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
