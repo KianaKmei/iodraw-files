@@ -127,7 +127,7 @@
           <mxGeometry x="800" y="500" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-50" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sigmoid&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#00FFFF;" vertex="1" parent="1">
-          <mxGeometry x="440" y="580" width="130" height="30" as="geometry" />
+          <mxGeometry x="440" y="570" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-52" value="下采样卷积层，3×3卷积核，步长2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="500" width="210" height="30" as="geometry" />
@@ -138,8 +138,8 @@
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-55" value="上采样卷积层，3×3卷积核，步长2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="500" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-56" value="3×3卷积核 输出掩膜" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="960" y="500" width="130" height="30" as="geometry" />
+        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-56" value="3×3卷积核 输出软掩膜概率图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="935" y="500" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-57" value="Post-processing" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#3399FF;textDirection=vertical-lr;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="910" y="270" width="30" height="130" as="geometry" />
