@@ -226,7 +226,7 @@
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#3399FF;fillColor=#00FFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="340" as="sourcePoint" />
-            <mxPoint x="830" y="360" as="targetPoint" />
+            <mxPoint x="830" y="340" as="targetPoint" />
             <Array as="points">
               <mxPoint x="240" y="340" />
               <mxPoint x="600" y="340" />
@@ -234,7 +234,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
-          <mxGeometry x="160" y="500" width="30" height="120" as="geometry" />
+          <mxGeometry x="230" y="275" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-20" value="Dilated Gate Conv" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FFCC99;" vertex="1" parent="1">
           <mxGeometry x="340" y="590" width="30" height="120" as="geometry" />
