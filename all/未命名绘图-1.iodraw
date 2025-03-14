@@ -229,21 +229,6 @@
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F7FF;" vertex="1" parent="1">
           <mxGeometry x="260" y="360" width="270" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv Block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
-          <mxGeometry x="360" y="380" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv Block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
-          <mxGeometry x="440" y="380" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-22" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="480" y="380" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-23" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="400" y="380" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-24" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="320" y="380" width="30" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-27" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="300" width="80" height="80" as="geometry" />
         </mxCell>
@@ -289,6 +274,21 @@
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv Block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
           <mxGeometry x="280" y="380" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-24" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv Block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-23" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="400" y="380" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv Block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
+          <mxGeometry x="440" y="380" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-22" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="480" y="380" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
