@@ -264,7 +264,13 @@
           <mxGeometry x="520" y="280" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-48" value="Dilated Gate Conv" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FFCC99;" vertex="1" parent="1">
-          <mxGeometry x="500" y="300" width="30" height="120" as="geometry" />
+          <mxGeometry x="560" y="280" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-49" value="Dilated Gate Conv" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FFCC99;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-50" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
