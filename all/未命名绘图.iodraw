@@ -118,10 +118,10 @@
           <mxGeometry x="35" y="500" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-47" value="&lt;font face=&quot;Times New Roman&quot;&gt;ReLU&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#FF99CC;" vertex="1" parent="1">
-          <mxGeometry x="70" y="570" width="130" height="30" as="geometry" />
+          <mxGeometry x="35" y="570" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-48" value="&lt;font&gt;Conv2D&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Transpose&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#80FF00;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="440" y="500" width="130" height="30" as="geometry" />
+          <mxGeometry x="380" y="490" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-49" value="&lt;font&gt;Conv2D-Output&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#FF6666;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="800" y="500" width="130" height="30" as="geometry" />
@@ -136,7 +136,7 @@
           <mxGeometry x="610" y="498" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-55" value="上采样卷积层，3×3卷积核，步长2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="500" width="210" height="30" as="geometry" />
+          <mxGeometry x="510" y="490" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-56" value="3×3卷积核 输出软掩膜概率图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="935" y="500" width="180" height="30" as="geometry" />
@@ -148,7 +148,7 @@
           <mxGeometry x="800" y="570" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-59" value="采样卷积层激活函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="570" width="130" height="30" as="geometry" />
+          <mxGeometry x="170" y="570" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-60" value="输出卷积层激活函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="585" y="570" width="130" height="30" as="geometry" />
