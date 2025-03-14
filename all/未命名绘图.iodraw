@@ -124,13 +124,16 @@
           <mxGeometry x="440" y="500" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-49" value="&lt;font&gt;Conv2D-Output&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#FF6666;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="750" y="500" width="130" height="30" as="geometry" />
+          <mxGeometry x="780" y="500" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-50" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sigmoid&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#00FFFF;" vertex="1" parent="1">
-          <mxGeometry x="420" y="590" width="130" height="30" as="geometry" />
+          <mxGeometry x="440" y="590" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-52" value="下采样卷积层，3×3卷积核，步长2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="500" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-53" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E4%B8%8B%E9%87%87%E6%A0%B7%E5%8D%B7%E7%A7%AF%E5%B1%82%EF%BC%8C3%C3%973%E5%8D%B7%E7%A7%AF%E6%A0%B8%EF%BC%8C%E6%AD%A5%E9%95%BF2%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22200%22%20y%3D%22500%22%20width%3D%22210%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E4%B8%8B%E9%87%87%E6%A0%B7%E5%8D%B7%E7%A7%AF%E5%B1%82%EF%BC%8C3%C3%973%E5%8D%B7%E7%A7%AF%E6%A0%B8%EF%BC%8C%E6%AD%A5%E9%95%BF2%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22200%22%20y%3D%22500%22%20width%3D%22210%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="498" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
