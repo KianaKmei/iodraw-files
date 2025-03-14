@@ -399,8 +399,8 @@
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-99" value="门控卷积模块：通过门控动态控制特征传播" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="730" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-100" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="685" y="728" width="50" height="30" as="geometry" />
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-100" value="空洞门控卷积：扩大卷积模块的感受野，捕捉上下文信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="730" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
