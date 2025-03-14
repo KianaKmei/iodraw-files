@@ -85,7 +85,7 @@
           <mxGeometry x="420" y="275" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Conv2D&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#FFCC99;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="345" y="275" width="30" height="130" as="geometry" />
+          <mxGeometry x="335" y="270" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Conv2D&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#FFCC99;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="250" y="270" width="30" height="130" as="geometry" />
@@ -97,7 +97,7 @@
           <mxGeometry x="290" y="270" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-38" value="&lt;font face=&quot;Times New Roman&quot;&gt;ReLU&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#FF99CC;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="380" y="275" width="30" height="130" as="geometry" />
+          <mxGeometry x="380" y="270" width="30" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
