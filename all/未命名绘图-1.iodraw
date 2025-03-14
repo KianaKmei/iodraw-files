@@ -313,7 +313,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-67" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
-          <mxGeometry x="750" y="535" width="30" height="150" as="geometry" />
+          <mxGeometry x="840" y="535" width="30" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-66" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
           <mxGeometry x="880" y="535" width="30" height="150" as="geometry" />
@@ -331,7 +331,7 @@
           <mxGeometry x="670" y="550" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-73" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
-          <mxGeometry x="710" y="550" width="30" height="120" as="geometry" />
+          <mxGeometry x="800" y="550" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-22" value="Contextual Attention" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="680" y="360.39" width="70" height="120" as="geometry" />
@@ -340,7 +340,7 @@
           <mxGeometry x="640" y="360" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-75" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
-          <mxGeometry x="510" y="360.39" width="30" height="120" as="geometry" />
+          <mxGeometry x="600" y="360.39" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-76" value="Dilated Gate Conv" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FFCC99;" vertex="1" parent="1">
           <mxGeometry x="630" y="550" width="30" height="120" as="geometry" />
