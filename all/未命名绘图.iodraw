@@ -29,7 +29,10 @@
           <mxGeometry x="50" y="374" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LbJ-9kwTxkioFvfQPVXJ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#66B2FF;" vertex="1" parent="1">
-          <mxGeometry x="460" y="300" width="60" height="120" as="geometry" />
+          <mxGeometry x="450" y="300" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-15" value="&lt;font&gt;Gated Conv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#FFCC99;labelBorderColor=none;textShadow=0;fillColor=#FFCC99;" vertex="1" parent="1">
+          <mxGeometry x="650" y="300" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
