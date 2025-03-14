@@ -391,13 +391,16 @@
           <mxGeometry x="95" y="730" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-97" value="Contextual Attention" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#FFFF66;" vertex="1" parent="1">
-          <mxGeometry x="770" y="730" width="120" height="30" as="geometry" />
+          <mxGeometry x="95" y="780" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-98" value="Dilated Gate Conv" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#FFCC99;" vertex="1" parent="1">
           <mxGeometry x="480" y="730" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-99" value="门控卷积模块：通过门控动态控制特征传播" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="730" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-100" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="685" y="728" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
