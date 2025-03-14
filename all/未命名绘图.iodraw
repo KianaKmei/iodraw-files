@@ -7,10 +7,10 @@
         <mxCell id="LbJ-9kwTxkioFvfQPVXJ-1" value="&lt;font face=&quot;宋体&quot;&gt;输入图像&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;（256×256）&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-5" value="&lt;font face=&quot;宋体&quot;&gt;Gated Conv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-5" value="&lt;font&gt;Gated Conv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="230" y="300" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-6" value="Dilate Gated" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-6" value="Dilate Gated" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="280" y="300" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LbJ-9kwTxkioFvfQPVXJ-7" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Gated Conv&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-rl;" vertex="1" parent="1">
