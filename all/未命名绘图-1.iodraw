@@ -413,8 +413,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="h9EyIOH7XS0jQXCsdvUp-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="80" height="80" as="geometry" />
+        <mxCell id="h9EyIOH7XS0jQXCsdvUp-1" value="Inpainting Result&lt;div&gt;(256×256×3)&lt;/div&gt;&lt;div&gt;RGB&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
