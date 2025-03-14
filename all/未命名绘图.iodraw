@@ -66,9 +66,6 @@
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-10" value="Decoder&lt;div&gt;Conv2D-32→64&lt;span style=&quot;background-color: initial;&quot;&gt;→128&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="550" y="230" width="230" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-11" value="&lt;font&gt;Conv2D&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Transpose&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#80FF00;textDirection=vertical-lr;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="570" y="275" width="30" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-12" value="&lt;font&gt;Conv2D&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Transpose&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#80FF00;textDirection=vertical-lr;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="650" y="275" width="30" height="130" as="geometry" />
         </mxCell>
@@ -77,9 +74,6 @@
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-15" value="&lt;font&gt;Conv2D-Output&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#66B2FF;textDirection=vertical-lr;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="840" y="270" width="30" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sv0c-Y7wQnEQ1qlnyc_Q-8" target="sv0c-Y7wQnEQ1qlnyc_Q-10">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Conv2D&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#FFCC99;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="420" y="275" width="30" height="130" as="geometry" />
@@ -95,6 +89,9 @@
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Conv2D&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#FFCC99;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="345" y="275" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-11" value="&lt;font&gt;Conv2D&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Transpose&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#80FF00;textDirection=vertical-lr;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="570" y="275" width="30" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
