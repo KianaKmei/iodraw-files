@@ -7,7 +7,7 @@
         <mxCell id="LbJ-9kwTxkioFvfQPVXJ-1" value="&lt;font face=&quot;宋体&quot;&gt;输入图像&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;（256×256）&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-5" value="&lt;font&gt;Gated Conv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#FFCC99;" vertex="1" parent="1">
+        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-5" value="&lt;font&gt;Gated Conv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#FFCC99;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="300" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LbJ-9kwTxkioFvfQPVXJ-6" value="Dilate Gated" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
