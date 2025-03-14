@@ -224,7 +224,7 @@
           <mxGeometry x="40" y="270" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-2" value="Input&lt;div&gt;（256×256&lt;span style=&quot;background-color: initial;&quot;&gt;×1，Mask&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="40" y="414" width="134" height="134" as="geometry" />
+          <mxGeometry x="40" y="420" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
