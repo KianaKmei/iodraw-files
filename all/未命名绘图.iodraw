@@ -58,7 +58,10 @@
           <mxGeometry x="40" y="280" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="220" width="290" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
