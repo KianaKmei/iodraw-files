@@ -229,7 +229,7 @@
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F7FF;" vertex="1" parent="1">
           <mxGeometry x="260" y="360" width="260" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-6" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;PingFang SC&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(243, 243, 243);&quot;&gt;Gated Conv Block&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#FFCC99;" vertex="1" parent="1">
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;PingFang SC, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Helvetica, Arial, Hiragino Sans GB, Microsoft YaHei UI, Microsoft YaHei, Source Han Sans CN, sans-serif&quot; color=&quot;#ba0000&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(243, 243, 243);&quot;&gt;C&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#FFCC99;" vertex="1" parent="1">
           <mxGeometry x="715" y="265" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-7" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
