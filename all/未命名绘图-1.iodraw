@@ -221,7 +221,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F7FF;" vertex="1" parent="1">
-          <mxGeometry x="260" y="150" width="270" height="380" as="geometry" />
+          <mxGeometry x="260" y="130" width="270" height="400" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-1" value="Input&lt;div&gt;（256×256&lt;span style=&quot;background-color: initial;&quot;&gt;×4)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RGB+Mask&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F0F0F0;" vertex="1" parent="1">
           <mxGeometry x="50" y="270" width="130" height="130" as="geometry" />
