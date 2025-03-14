@@ -124,7 +124,7 @@
           <mxGeometry x="380" y="490" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-49" value="&lt;font&gt;Conv2D-Output&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#FF6666;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="730" y="490" width="130" height="30" as="geometry" />
+          <mxGeometry x="720" y="490" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-50" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sigmoid&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#00FFFF;" vertex="1" parent="1">
           <mxGeometry x="380" y="560" width="130" height="30" as="geometry" />
@@ -145,16 +145,16 @@
           <mxGeometry x="910" y="270" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-58" value="Post-processing" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#3399FF;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="800" y="570" width="130" height="30" as="geometry" />
+          <mxGeometry x="720" y="560" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-59" value="采样卷积层激活函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="560" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-60" value="输出卷积层激活函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="585" y="570" width="130" height="30" as="geometry" />
+          <mxGeometry x="520" y="560" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-61" value="对软掩膜进行归一化处理，生成有云/无云（1/0）二值掩码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="850" y="570" width="330" height="30" as="geometry" />
+        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-61" value="对软掩膜归一化处理，生成有云/无云（1/0）二值掩码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="560" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
