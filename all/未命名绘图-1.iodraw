@@ -302,6 +302,9 @@
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-35" value="门控分支 下采样 （256→128→64）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="285" y="500" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-36" value="Encoder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="68" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
