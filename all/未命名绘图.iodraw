@@ -25,9 +25,6 @@
         <mxCell id="LbJ-9kwTxkioFvfQPVXJ-12" value="Dilate Gated" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fontFamily=Times New Roman;fontStyle=1;fillColor=#80FF00;" vertex="1" parent="1">
           <mxGeometry x="135" y="640" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-13" value="&lt;font face=&quot;宋体&quot;&gt;图像mask掩码&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;（256×256）&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="50" y="374" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="LbJ-9kwTxkioFvfQPVXJ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="450" y="300" width="40" height="120" as="geometry" />
         </mxCell>
@@ -41,7 +38,13 @@
           <mxGeometry x="590" y="90" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LbJ-9kwTxkioFvfQPVXJ-18" value="&lt;font&gt;Gated Conv&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fontFamily=Times New Roman;fontStyle=1;labelBackgroundColor=#FFCC99;labelBorderColor=none;textShadow=0;fillColor=#FFCC99;" vertex="1" parent="1">
-          <mxGeometry x="680" y="110" width="30" height="120" as="geometry" />
+          <mxGeometry x="520" y="90" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-19" value="Dilate Gated" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fontFamily=Times New Roman;fontStyle=1;fillColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="810" y="100" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJ-9kwTxkioFvfQPVXJ-20" value="Dilate Gated" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fontFamily=Times New Roman;fontStyle=1;fillColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="850" y="100" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
