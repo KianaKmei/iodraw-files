@@ -312,7 +312,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-38" value="&lt;font face=&quot;Times New Roman&quot;&gt;ConvTeanspose Conv Block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-rl;fillColor=#D9D9D9;" vertex="1" parent="1">
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-38" value="&lt;font face=&quot;Times New Roman&quot;&gt;ConvTeanspose Conv Block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-rl;fillColor=#f0e6ff;" vertex="1" parent="1">
           <mxGeometry x="860" y="280" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
