@@ -200,7 +200,7 @@
         <mxCell id="JsM0vPKRT9aoLMyMmW2s-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JsM0vPKRT9aoLMyMmW2s-13" target="JsM0vPKRT9aoLMyMmW2s-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JsM0vPKRT9aoLMyMmW2s-13" value="" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="JsM0vPKRT9aoLMyMmW2s-13" value="SN-PatchGAN" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="630" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
