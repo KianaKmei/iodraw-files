@@ -388,13 +388,10 @@
           <mxGeometry x="60" y="455.39" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-95" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#D9D9D9;" vertex="1" parent="1">
-          <mxGeometry x="90" y="725" width="120" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-96" value="Dilated Gate Conv" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#FFCC99;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="95" y="780" width="120" height="30" as="geometry" />
+          <mxGeometry x="90" y="725" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-97" value="Contextual Attention" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#FFFF66;" vertex="1" parent="1">
-          <mxGeometry x="290" y="725" width="120" height="35" as="geometry" />
+          <mxGeometry x="250" y="725" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
