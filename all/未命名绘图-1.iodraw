@@ -360,7 +360,7 @@
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-86" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#3399FF;fillColor=#00FFFF;width=11;endSize=12.33;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="520" as="sourcePoint" />
-            <mxPoint x="160" y="520" as="targetPoint" />
+            <mxPoint x="90" y="520" as="targetPoint" />
             <Array as="points">
               <mxPoint x="410" y="520" />
             </Array>
@@ -376,7 +376,13 @@
           <mxGeometry x="300" y="460" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-90" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
-          <mxGeometry x="360" y="154" width="30" height="150" as="geometry" />
+          <mxGeometry x="260" y="445" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-91" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
+          <mxGeometry x="220" y="445" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-92" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="30" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
