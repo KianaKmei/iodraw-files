@@ -160,7 +160,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wPQx1zm254v_6P4_5mxj" name="第 3 页">
-    <mxGraphModel dx="1379" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -171,8 +171,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="550" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="460" />
-              <mxPoint x="690" y="460" />
+              <mxPoint x="180" y="480" />
+              <mxPoint x="690" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
