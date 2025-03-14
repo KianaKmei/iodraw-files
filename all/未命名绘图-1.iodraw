@@ -227,7 +227,7 @@
           <mxGeometry x="260" y="160" width="270" height="160" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F7FF;" vertex="1" parent="1">
-          <mxGeometry x="260" y="360" width="270" height="160" as="geometry" />
+          <mxGeometry x="260" y="350" width="270" height="160" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-7" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FFCC99;" vertex="1" parent="1">
           <mxGeometry x="320" y="180" width="30" height="120" as="geometry" />
@@ -242,7 +242,7 @@
           <mxGeometry x="440" y="180" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv Block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
-          <mxGeometry x="410" y="370" width="30" height="120" as="geometry" />
+          <mxGeometry x="360" y="370" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gated Conv Block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#D9D9D9;" vertex="1" parent="1">
           <mxGeometry x="280" y="370" width="30" height="120" as="geometry" />
@@ -255,6 +255,9 @@
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-21" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FFCC99;" vertex="1" parent="1">
           <mxGeometry x="480" y="180" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-22" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;fillColor=#FFCC99;" vertex="1" parent="1">
+          <mxGeometry x="490" y="370" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
