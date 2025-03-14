@@ -458,8 +458,8 @@
         <mxCell id="h9EyIOH7XS0jQXCsdvUp-2" value="H" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;fillColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="250" y="250" width="64" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="h9EyIOH7XS0jQXCsdvUp-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="270" width="80" height="120" as="geometry" />
+        <mxCell id="h9EyIOH7XS0jQXCsdvUp-17" value="Real or Fake?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="270" width="80" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
