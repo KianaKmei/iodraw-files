@@ -297,7 +297,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-34" value="特征分支" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="365" y="88" width="70" height="30" as="geometry" />
+          <mxGeometry x="360" y="150" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-35" value="特征分支" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="500" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
