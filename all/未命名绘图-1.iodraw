@@ -479,8 +479,8 @@
         <mxCell id="h9EyIOH7XS0jQXCsdvUp-25" value="马尔科夫判别：输出空间真伪概率图，判断图片真伪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="770" y="528" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h9EyIOH7XS0jQXCsdvUp-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="185" y="638" width="50" height="30" as="geometry" />
+        <mxCell id="h9EyIOH7XS0jQXCsdvUp-26" value="卷积层，对输入图像进行局部特征提取和真伪分类" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="638" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
