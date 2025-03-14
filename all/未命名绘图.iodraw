@@ -147,8 +147,8 @@
         <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-58" value="Post-processing" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#3399FF;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="800" y="570" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-59" value="激活函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="570" width="70" height="30" as="geometry" />
+        <mxCell id="sv0c-Y7wQnEQ1qlnyc_Q-59" value="采样卷积层激活函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="570" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
