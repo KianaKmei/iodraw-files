@@ -229,9 +229,6 @@
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F7FF;" vertex="1" parent="1">
           <mxGeometry x="260" y="360" width="260" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="xsObOYPg3w4mgMgOkB1Q-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#FFCC99;labelBackgroundColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="715" y="265" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="xsObOYPg3w4mgMgOkB1Q-7" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="370" y="180" width="30" height="120" as="geometry" />
         </mxCell>
