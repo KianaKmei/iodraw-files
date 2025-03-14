@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17" pages="3">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17" pages="4">
   <diagram name="第 1 页" id="RHUl0YWhI93925DMw4i3">
     <mxGraphModel dx="1166" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -211,6 +211,17 @@
         </mxCell>
         <mxCell id="JsM0vPKRT9aoLMyMmW2s-13" value="SN-PatchGAN" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="630" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HpkUuWJzk34RGRtITh4f" name="第 4 页">
+    <mxGraphModel dx="1166" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xsObOYPg3w4mgMgOkB1Q-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
