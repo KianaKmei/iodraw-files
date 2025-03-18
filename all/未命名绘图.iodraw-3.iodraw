@@ -40,8 +40,8 @@
         <mxCell id="DMDgqJcuegFMDYOdGBTP-10" value="Input RGB-image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="210" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DMDgqJcuegFMDYOdGBTP-11" value="Input RGB-image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="220" width="100" height="30" as="geometry" />
+        <mxCell id="DMDgqJcuegFMDYOdGBTP-11" value="Output RGB-image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="200" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
