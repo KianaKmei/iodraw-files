@@ -69,7 +69,7 @@
         <mxCell id="SntDy7QpDh0tTmcpawHX-7" value="mask" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="315" y="250" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SntDy7QpDh0tTmcpawHX-8" value="Input image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SntDy7QpDh0tTmcpawHX-8" value="target" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="250" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SntDy7QpDh0tTmcpawHX-9" value="Input image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
