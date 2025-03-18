@@ -16,14 +16,19 @@
         <mxCell id="DMDgqJcuegFMDYOdGBTP-2" value="动态自由生成mask" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=default;align=center;" vertex="1" parent="1">
           <mxGeometry x="320" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DMDgqJcuegFMDYOdGBTP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DMDgqJcuegFMDYOdGBTP-4" target="DMDgqJcuegFMDYOdGBTP-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="DMDgqJcuegFMDYOdGBTP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DMDgqJcuegFMDYOdGBTP-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DMDgqJcuegFMDYOdGBTP-4" value="SNPatchGAN" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="520" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DMDgqJcuegFMDYOdGBTP-6" value="" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="720" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="DMDgqJcuegFMDYOdGBTP-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="420" as="sourcePoint" />
+            <mxPoint x="610" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
