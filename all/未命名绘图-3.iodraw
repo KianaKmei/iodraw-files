@@ -67,7 +67,13 @@
           <mxGeometry x="610" y="280" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="SntDy7QpDh0tTmcpawHX-7" value="Input image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="155" y="260" width="70" height="30" as="geometry" />
+          <mxGeometry x="315" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SntDy7QpDh0tTmcpawHX-8" value="Input image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SntDy7QpDh0tTmcpawHX-9" value="Input image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="250" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
